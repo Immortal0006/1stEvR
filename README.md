@@ -1,5 +1,5 @@
 # 1stEvR
-this is Immo and daDawg's first github repository as we learn what to do on github
+this is Immo's first github repository as I learn what to do on github
 #include<stdio.h>
 intmain()
 {
